@@ -8,7 +8,7 @@ A console-based banking application developed in C++ as an academic project.
 - Performs basic banking operations
 - Uses functions to organize the program
 - Uses loops and conditional statements
-- Validates user input
+- Validates menu selections
 
 ## Technologies
 
